@@ -4,7 +4,7 @@ body {
     padding: 20px;
 }
 
-input {
+input, select {
     margin: 5px;
     padding: 5px;
 }
